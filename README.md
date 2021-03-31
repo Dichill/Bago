@@ -5,10 +5,14 @@ Create your very own bootstrapper application/updater for your external applicat
 ## Features
 ![image](https://user-images.githubusercontent.com/48512644/113163939-38fe0d00-9273-11eb-901b-eaceb565bdee.png)
 - Create Custom Templates for users to experience or use!
+
 <hr>
+
 ![image](https://user-images.githubusercontent.com/48512644/113164019-4f0bcd80-9273-11eb-9c41-6eeb25ea2049.png)
 - Simple Interface for making your very own bootstrapper!
+
 <hr>
+
 ![image](https://user-images.githubusercontent.com/48512644/113164137-6cd93280-9273-11eb-9faa-d243f16390ee.png)
 - Simple Documentation built-in the app for fast navigation!
 
