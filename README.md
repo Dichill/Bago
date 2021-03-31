@@ -29,6 +29,6 @@ Create your very own bootstrapper application/updater for your external applicat
 4. Simply open the project
 
 ### Common Errors when Compiling
-**Missing dll(s)**\n
-in the reference tab; right click add the the dll(s) which can be found in the folder named **debug**
+**Missing dll(s)**
+* in the reference tab; right click add the the dll(s) which can be found in the folder named **debug**
 
