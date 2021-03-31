@@ -1,0 +1,16 @@
+--------------------------------------------------
+[8:29 PM] 8:30 Starting Installation of WORKMINES
+--------------------------------------------------
+[8:30 PM] Assembled Project WORKMINES
+[8:30 PM] WORKMINES/Assets/ __init__.py
+[8:30 PM] WORKMINES/Assets/ __main__.py
+[8:30 PM] WORKMINES/ README.txt
+[8:30 PM] WORKMINES/ Start.bat
+[8:31 PM] WORKMINES/INFO/ Log.txt
+[8:32 PM] WORKMINES/INFO/ Requirements
+[8:33 PM] WORKMINES/WORKMINES/ WorkMinesSettings.py
+[8:33 PM] WORKMINES/WORKMINES/__pycache__/ WorkMinesSettings.cpython-37.pyc
+[8:34 PM] WORKMINES/ Worker_Playback.py
+[8:34 PM] WORKMINES/ Worker_Starting.py
+Success | Installed [8:35 PM]
+--------------------------------------------------

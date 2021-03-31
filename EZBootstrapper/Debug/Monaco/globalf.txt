@@ -1,0 +1,15 @@
+bool
+double
+long
+unit
+byte
+enum
+sbyte
+ulong
+char
+float
+short
+ushort
+decimal
+int
+struct

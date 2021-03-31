@@ -1,0 +1,6 @@
+D:\Visual Studio\EZBootstrapper\EZBootstrapper\bin\Debug\EZBootstrapper.dll
+D:\Visual Studio\EZBootstrapper\EZBootstrapper\bin\Debug\EZBootstrapper.pdb
+D:\Visual Studio\EZBootstrapper\EZBootstrapper\obj\Debug\EZBootstrapper.csprojAssemblyReference.cache
+D:\Visual Studio\EZBootstrapper\EZBootstrapper\obj\Debug\EZBootstrapper.csproj.CoreCompileInputs.cache
+D:\Visual Studio\EZBootstrapper\EZBootstrapper\obj\Debug\EZBootstrapper.dll
+D:\Visual Studio\EZBootstrapper\EZBootstrapper\obj\Debug\EZBootstrapper.pdb
